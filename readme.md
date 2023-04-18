@@ -15,4 +15,5 @@ Concepts practiced:
 :gear: Git version control
 
 :gear: Editing readme
+<br>
 <img  width='250px'  height='auto'  src="https://github.com/agathateixeira/extra-javascript-exercises/blob/to-test/readme.gif?raw=true">
