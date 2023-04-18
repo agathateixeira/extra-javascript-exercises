@@ -16,4 +16,4 @@ Concepts practiced:
 
 :gear: Editing readme
 
-<img src="(https://github.com/agathateixeira/extra-javascript-exercises/blob/to-test/readme.gif?raw=true)">
+<img width='300px' height='auto' src=(https://github.com/agathateixeira/extra-javascript-exercises/blob/to-test/readme.gif?raw=true)>
