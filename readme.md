@@ -16,4 +16,4 @@ Concepts practiced:
 
 :gear: Editing readme
 
-<img src="(https://media0.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47flpbiq8qvp25pwd7pglvga87p19wrbo9f78wzatn&rid=giphy.gif&ct=g)">
+<img src="(https://github.com/agathateixeira/extra-javascript-exercises/blob/to-test/readme.gif?raw=true)">
